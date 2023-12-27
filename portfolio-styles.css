@@ -56,7 +56,6 @@ top: 0;
 }
 
 .cv-btn::before {
-    content: '';
     position: absolute;
     top: 0;
     left: 0;
@@ -70,6 +69,26 @@ top: 0;
 .cv-btn:hover::before {
     transform: rotate(-45deg) scale(2);
 }
+.intro-small{
+    display: none;
+}
+.duh{
+    display: none;
+}
+@media (max-width: 1380px) {
+    .svg_img_container {
+        display: none;
+    }
+
+    .intro-small{
+        padding: 6em;
+        display: block;
+        text-align: left;
+    }
+    
+}
+
+
 
 .container_header li {
 float: right;
