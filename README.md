@@ -9,16 +9,22 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 - [Contact](#contact)
 
 ## About Me
-Bief introduction
+Greetings! I'm Siddhi Singh, an Electronics Engineering student at Ramrao Adik Institute of Technology, Mumbai University.
 
 ## Projects
-List of notable projects with brief descriptions, links to the source code.
+Dance Pose Estimation and Correction
+Portfolio Website
+Stock Prediction
+Cab Rental Services
+Distance Alert for Social Distancing
 
 ## Skills
-Highlighting relevant technical skills.
+• Technical Skills: C++ | Python | Data Structures and algorithms | SQL | Java | HTML-CSS | Bootstrap | AWS Services | Machine 
+Learning | Microcontrollers | JavaScript | MySQL Workbench.
+• Soft Skills: Problem solving | Documentation | Leadership | Collaboration | Resilience
 
 ## Contact
-Socials and contact
+Mail: singhsiddhi@gmail.com
 
 ## Getting Started
 If you want to run this portfolio locally, follow these steps:
